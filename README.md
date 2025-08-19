@@ -1,1 +1,42 @@
-# inflation-risk-analysis
+# Inflation Risk Analysis (WIP)
+
+🚧 Work In Progress 🚧  
+This flagship portfolio project focuses on analyzing inflation risk across multiple countries.  
+The goal is to build a data pipeline, perform exploratory analysis, create risk scoring features, and finally deliver insights through a Power BI dashboard.
+
+---
+
+## Tools & Stack 🛠️
+- **Python**: pandas, numpy, matplotlib, seaborn
+- **Power BI**: interactive dashboard *(WIP)*
+
+---
+
+## Folder Structure 📂
+- `notebooks/`
+  - **01_data_cleaning.ipynb** → preprocessing & cleaning steps
+  - **02_exploratory_analysis.ipynb** → exploratory data analysis (EDA)
+  - **03_feature_engineering_risk_index.ipynb** → feature engineering for risk index
+  - **04_modeling.ipynb** *(WIP)* → statistical modeling & evaluation
+- `data/`
+  - `raw_data/` → raw datasets (excluded here for confidentiality)
+  - `processed/` → intermediate outputs
+- `reports/`
+  - `dashboard/` *(WIP)* → Power BI dashboard & screenshots
+- `requirements.txt` → Python dependencies
+- `README.md` → project documentation
+
+---
+
+## Objectives
+- Clean and preprocess macroeconomic & inflation-related data  
+- Explore country-level inflation patterns  
+- Engineer features to quantify inflation risk exposure  
+- Visualize findings through Power BI dashboard  
+
+---
+
+## Next Steps 📌
+- Complete the modeling stage (Notebook 04)  
+- Build and publish Power BI dashboard  
+- Add final report & insights summary  
