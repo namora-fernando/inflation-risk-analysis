@@ -14,7 +14,7 @@ The goal is to build a data pipeline, perform exploratory analysis, create risk 
 
 ## Folder Structure 📂
 - `notebooks/`
-  - [**01_data_cleaning.ipynb**](https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/01_data_cleaning.ipynb) → preprocessing & cleaning steps
+  - [`**01_data_cleaning.ipynb**`](https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/01_data_cleaning.ipynb) → preprocessing & cleaning steps
   - [**02_exploratory_analysis.ipynb**](https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/02_exploratory_analysis.ipynb) → exploratory data analysis (EDA)
   - [**03_feature_engineering_risk_index.ipynb**](https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/03_feature_engineering_risk_index.ipynb) → feature engineering for risk index
   - **04_modeling.ipynb** *(WIP)* → statistical modeling & evaluation
