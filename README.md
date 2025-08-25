@@ -15,12 +15,12 @@ The goal is to build a data pipeline, perform exploratory analysis, create risk 
 ## Folder Structure 📂
 - `notebooks/`
   - [`01_data_cleaning.ipynb`](https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/01_data_cleaning.ipynb) → preprocessing & cleaning steps
-  - [**02_exploratory_analysis.ipynb**](https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/02_exploratory_analysis.ipynb) → exploratory data analysis (EDA)
-  - [**03_feature_engineering_risk_index.ipynb**](https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/03_feature_engineering_risk_index.ipynb) → feature engineering for risk index
-  - **04_modeling.ipynb** *(WIP)* → statistical modeling & evaluation
+  - [`02_exploratory_analysis.ipynb`](https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/02_exploratory_analysis.ipynb) → exploratory data analysis (EDA)
+  - [`03_feature_engineering_risk_index.ipynb`](https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/03_feature_engineering_risk_index.ipynb) → feature engineering for risk index
+  - `04_modeling.ipynb` *(WIP)* → statistical modeling & evaluation
 - `data/`
-  - `raw_data/` → raw datasets (excluded here for confidentiality)
-  - `processed/` → intermediate outputs
+  - [`raw_data/`](https://github.com/namora-fernando/inflation-risk-analysis/tree/main/data/raw_data) → raw datasets
+  - [`processed/`](https://github.com/namora-fernando/inflation-risk-analysis/tree/main/data/processed) → intermediate outputs
 - `reports/`
   - `dashboard/` *(WIP)* → Power BI dashboard & screenshots
 - `requirements.txt` → Python dependencies
@@ -32,7 +32,7 @@ The goal is to build a data pipeline, perform exploratory analysis, create risk 
 - Clean and preprocess macroeconomic & inflation-related data  
 - Explore country-level inflation patterns  
 - Engineer features to quantify inflation risk exposure  
-- Visualize findings through Power BI dashboard  
+- Visualize findings through Power BI dashboard  → *(WIP)*
 
 ---
 
