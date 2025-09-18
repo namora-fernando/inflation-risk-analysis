@@ -4,7 +4,7 @@
 This flagship portfolio project focuses on analyzing inflation risk across multiple countries.  
 The goal is to build a data pipeline, perform exploratory analysis, create risk scoring features, and finally deliver insights through a Power BI dashboard.
 
-> ⚠️ **Disclaimer**:
+> ⚠️ **Disclaimer**: <br>
 > The following exploratory analysis of this project is descriptive in nature. We focus on patterns directly observable in the data, without attempting deeper economic interpretation (as this project is aimed at data workflow demonstration rather than economic research).
 
 ---
