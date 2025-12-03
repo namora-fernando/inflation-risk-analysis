@@ -1,7 +1,7 @@
 # Inflation Risk Analysis (WIP)
 
 🚧 Work In Progress 🚧  
-This flagship portfolio project focuses on analyzing inflation risk across multiple countries.  
+This project focuses on analyzing inflation risk across multiple countries. <br>
 The goal is to build a data pipeline, perform exploratory analysis, create risk scoring features, and finally deliver insights through a Power BI dashboard.
 
 > ⚠️ **Disclaimer**: <br>
@@ -11,7 +11,7 @@ The goal is to build a data pipeline, perform exploratory analysis, create risk 
 
 ## Tools & Stack 🛠️
 - **Python**: pandas, numpy, matplotlib, seaborn
-- **Power BI**: interactive dashboard *(WIP)*
+- **Power BI**: interactive dashboard
 
 ---
 
