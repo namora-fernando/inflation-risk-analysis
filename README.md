@@ -24,8 +24,10 @@ The goal is to build a data pipeline, perform exploratory analysis, create risk 
 - `data/`
   - [`raw_data/`](https://github.com/namora-fernando/inflation-risk-analysis/tree/main/data/raw_data) → raw datasets
   - [`processed/`](https://github.com/namora-fernando/inflation-risk-analysis/tree/main/data/processed) → intermediate outputs
-- `reports/`
-  - `dashboard/` *(WIP)* → Power BI dashboard & screenshots
+- `dashboard/` → Power BI dashboard & screenshots *(WIP)*
+  - `inflation_risk_analysis_dashboard.pbix`
+  - dashboard_insights/ → insights of dashboards
+  - dashboard_pages/ → screenshots of dashboards
 - `requirements.txt` → Python dependencies
 - `README.md` → project documentation
 
