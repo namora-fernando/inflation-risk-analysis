@@ -1,5 +1,7 @@
-pandas
-numpy
-matplotlib
-seaborn
-xlsxwriter
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+xlsxwriter>=3.1
+ipykernel>=6.0
+openpyxl>=3.1
