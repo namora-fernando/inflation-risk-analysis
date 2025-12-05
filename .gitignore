@@ -12,10 +12,6 @@ __pycache__/
 env/
 venv/
 
-# Data files (exclude large/raw data)
-data/raw/*
-data/processed/*
-
 # System files
 .DS_Store
 Thumbs.db
