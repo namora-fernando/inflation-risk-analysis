@@ -55,6 +55,4 @@ The goal is to build a data pipeline, perform exploratory analysis, create risk 
 ---
 
 ## Next Steps 📌
-- Complete the modeling stage (Notebook 04)  
-- Build and publish Power BI dashboard  
-- Add final report & insights summary  
+- Add insights summary  
