@@ -48,13 +48,13 @@ The goal is to build a data workflow, from data cleaning and exploratory analysi
 ### 1️⃣ **Global Overview**
   ![Global Overview](./dashboard/dashboard_pages/global_overview.png "Global Overview")
   <br>
-- 2️⃣ **Country Deep-Dive** <br>
+### 2️⃣ **Country Deep-Dive**
   ![Country Deep-Dive](./dashboard/dashboard_pages/country-deep-dive.png "Country-Deep-Dive")
   <br>
-- 3️⃣ **Regional Comparison** <br>
+### 3️⃣ **Regional Comparison**
   ![Regional Comparison](./dashboard/dashboard_pages/regional_comparison.png "Regional Comparison")
   <br>
-- 4️⃣ **Data Methodology** <br>
+### 4️⃣ **Data Methodology**
   ![Data Methodology](./dashboard/dashboard_pages/data_methodology.png "Data Methodology")
 
 ---
