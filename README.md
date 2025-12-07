@@ -44,16 +44,16 @@ The goal is to build a data pipeline, perform exploratory analysis, create risk 
 
 ## Screenshots of Dashboard Pages
 
-- 1️⃣ **Global Overview**
+- 1️⃣ **Global Overview** <br>
   ![global_overview.png](./dashboard/dashboard_pages/global_overview.png "Global Overview")
   <br>
-- 2️⃣ **Country-Deep-Dive**
+- 2️⃣ **Country-Deep-Dive** <br>
   ![country-deep-dive.png](./dashboard/dashboard_pages/country-deep-dive.png "Country-Deep-Dive")
   <br>
-- 3️⃣ **Regional Comparison**
+- 3️⃣ **Regional Comparison** <br>
   ![regional_comparison.png](./dashboard/dashboard_pages/regional_comparison.png "Regional Comparison")
   <br>
-- 4️⃣ **Data Methodology**
+- 4️⃣ **Data Methodology** <br>
   ![data_methodology.png](./dashboard/dashboard_pages/data_methodology.png "Data Methodology")
 
 ---
