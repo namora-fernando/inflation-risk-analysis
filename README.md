@@ -26,7 +26,7 @@ The goal is to build a data pipeline, perform exploratory analysis, create risk 
   - [`processed/`](./data/processed) → intermediate outputs
 - `dashboard/` → Power BI dashboard & screenshots
   - [`inflation_risk_analysis_dashboard.pbix`](./dashboard/inflation_risk_analysis_dashboard.pbix)
-  - [`inflation_risk_analysis_dashboard.pdf`](./dashboard/inflation_risk_analysis_dashboard.pdf) → pdf export of pbix
+  - `inflation_risk_analysis_dashboard.pdf` → pdf export of pbix
   - dashboard_insights/ → insights of dashboards
   - [`dashboard_pages`](./dashboard/dashboard_pages)/ → screenshots of dashboards
 - `requirements.txt` → Python dependencies
@@ -44,13 +44,13 @@ The goal is to build a data pipeline, perform exploratory analysis, create risk 
 
 ## Screenshots of Dashboard Pages
 - 1️⃣ **Global Overview**
-  ![global_overview.png](./dashboard/dashboard_pages/Page 1 - Global Overview.png)
+  ![global_overview.png](./dashboard/dashboard_pages/global_overview.png "Global Overview")
 - 2️⃣ **Country-Deep-Dive**
-  ![country_deep_dive.png](./dashboard/dashboard_pages/Page 2 - Country-Deep-Dive.png)
+  ![country-deep-dive.png](./dashboard/dashboard_pages/country-deep-dive.png "Country-Deep-Dive")
 - 3️⃣ **Regional Comparison**
-  ![regional_comparison.png](./dashboard/dashboard_pages/Page 3 - Regional Comparison.png)
+  ![regional_comparison.png](./dashboard/dashboard_pages/regional_comparison.png "Regional Comparison")
 - 4️⃣ **Data Methodology**
-  ![data_methodology.png](./dashboard/dashboard_pages/Page 4 - Data Methodology.png)
+  ![data_methodology.png](./dashboard/dashboard_pages/data_methodology.png "Data Methodology")
 
 ---
 
