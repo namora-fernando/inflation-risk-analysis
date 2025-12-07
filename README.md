@@ -26,7 +26,7 @@ The goal is to build a data pipeline, perform exploratory analysis, create risk 
   - [`processed/`](./data/processed) → intermediate outputs
 - `dashboard/` → Power BI dashboard & screenshots
   - [`inflation_risk_analysis_dashboard.pbix`](./dashboard/inflation_risk_analysis_dashboard.pbix)
-  - `inflation_risk_analysis_dashboard.pdf` → pdf export of pbix
+  - [`inflation_risk_analysis_dashboard.pdf`] (./dashboard/inflation_risk_analysis_dashboard.pdf) → pdf export of pbix
   - dashboard_insights/ → insights of dashboards
   - [`dashboard_pages`](./dashboard/dashboard_pages)/ → screenshots of dashboards
 - `requirements.txt` → Python dependencies
