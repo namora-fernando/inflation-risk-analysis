@@ -1,17 +1,18 @@
-# Inflation Risk Analysis (WIP)
+# Global Inflation Risk Analysis Dashboard
 
 🚧 Work In Progress 🚧  
-This project focuses on analyzing inflation risk across multiple countries. <br>
-The goal is to build a data pipeline, perform exploratory analysis, create risk scoring features, and finally deliver insights through a Power BI dashboard.
+This project analyzes inflation risk across multiple countries using macroeconomic indicators. <br>
+The goal is to build a data workflow, from data cleaning and exploratory analysis to risk scoring and interactive visualization using Power BI.
 
 > ⚠️ **Disclaimer**: <br>
-> The following exploratory analysis of this project is descriptive in nature. We focus on patterns directly observable in the data, without attempting deeper economic interpretation (as this project is aimed at data workflow demonstration rather than economic research).
+> The following exploratory analysis of this project is **descriptive in nature** and focuses on patterns observable directly in the data.
+> This project **not aim to provide deeper economic interpretation**, as the main purpose of this project is to demonstrate a full **data analytics and dashboarding workflow**.
 
 ---
 
 ## Tools & Stack 🛠️
 - **Python**: pandas, numpy, matplotlib, seaborn
-- **Power BI**: interactive dashboard
+- **Power BI**: interactive dashboard for visualization & reporting
 
 ---
 
@@ -20,15 +21,15 @@ The goal is to build a data pipeline, perform exploratory analysis, create risk 
   - [`01_data_cleaning.ipynb`](./notebooks/01_data_cleaning.ipynb) → preprocessing & cleaning steps
   - [`02_exploratory_analysis.ipynb`](./notebooks/02_exploratory_analysis.ipynb) → exploratory data analysis (EDA)
   - [`03_feature_engineering_risk_index.ipynb`](./notebooks/03_feature_engineering_risk_index.ipynb) → feature engineering for risk index
-  - [`04_modeling.ipynb`](./notebooks/04_modeling.ipynb) → preparation for Power BI friendly
+  - [`04_modeling.ipynb`](./notebooks/04_modeling.ipynb) → final dataset preparation for Power BI friendly
 - `data/`
   - [`raw_data/`](./data/raw_data) → raw datasets
   - [`processed/`](./data/processed) → intermediate outputs
-- `dashboard/` → Power BI dashboard & screenshots
+- `dashboard/`
   - [`inflation_risk_analysis_dashboard.pbix`](./dashboard/inflation_risk_analysis_dashboard.pbix)
-  - [`inflation_risk_analysis_dashboard.pdf`](./dashboard/inflation_risk_analysis_dashboard.pdf) → pdf export of pbix
-  - dashboard_insights/ → insights of dashboards
-  - [`dashboard_pages`](./dashboard/dashboard_pages)/ → screenshots of dashboards
+  - [`inflation_risk_analysis_dashboard.pdf`](./dashboard/inflation_risk_analysis_dashboard.pdf) → static PDF export
+  - dashboard_insights/ → insights of dashboards (*WIP*)
+  - [`dashboard_pages`](./dashboard/dashboard_pages)/ → screenshots of dashboard pages
 - `requirements.txt` → Python dependencies
 - `README.md` → project documentation
 
@@ -38,25 +39,26 @@ The goal is to build a data pipeline, perform exploratory analysis, create risk 
 - Clean and preprocess macroeconomic & inflation-related data  
 - Explore country-level inflation patterns  
 - Engineer features to quantify inflation risk exposure  
-- Visualize findings through Power BI dashboard
+- Build and interactive Power BI dashboard for analysis and reporting
 
 ---
 
-## Screenshots of Dashboard Pages
+## Dashboard Preview
 
-- 1️⃣ **Global Overview** <br>
-  ![global_overview.png](./dashboard/dashboard_pages/global_overview.png "Global Overview")
+### 1️⃣ **Global Overview**
+  ![Global Overview](./dashboard/dashboard_pages/global_overview.png "Global Overview")
   <br>
-- 2️⃣ **Country-Deep-Dive** <br>
-  ![country-deep-dive.png](./dashboard/dashboard_pages/country-deep-dive.png "Country-Deep-Dive")
+- 2️⃣ **Country Deep-Dive** <br>
+  ![Country Deep-Dive](./dashboard/dashboard_pages/country-deep-dive.png "Country-Deep-Dive")
   <br>
 - 3️⃣ **Regional Comparison** <br>
-  ![regional_comparison.png](./dashboard/dashboard_pages/regional_comparison.png "Regional Comparison")
+  ![Regional Comparison](./dashboard/dashboard_pages/regional_comparison.png "Regional Comparison")
   <br>
 - 4️⃣ **Data Methodology** <br>
-  ![data_methodology.png](./dashboard/dashboard_pages/data_methodology.png "Data Methodology")
+  ![Data Methodology](./dashboard/dashboard_pages/data_methodology.png "Data Methodology")
 
 ---
 
 ## Next Steps 📌
-- Add insights summary  
+- Add written insights for each dashboard page  
+- Add data interpretation summary
