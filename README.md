@@ -17,17 +17,18 @@ The goal is to build a data pipeline, perform exploratory analysis, create risk 
 
 ## Folder Structure 📂
 - `notebooks/`
-  - [`01_data_cleaning.ipynb`](https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/01_data_cleaning.ipynb) → preprocessing & cleaning steps
-  - [`02_exploratory_analysis.ipynb`](https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/02_exploratory_analysis.ipynb) → exploratory data analysis (EDA)
-  - [`03_feature_engineering_risk_index.ipynb`](https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/03_feature_engineering_risk_index.ipynb) → feature engineering for risk index
-  - [`04_modeling.ipynb`](https://github.com/namora-fernando/inflation-risk-analysis/blob/main/notebooks/04_modeling.ipynb) → preparation for Power BI friendly
+  - [`01_data_cleaning.ipynb`](./notebooks/01_data_cleaning.ipynb) → preprocessing & cleaning steps
+  - [`02_exploratory_analysis.ipynb`](./notebooks/02_exploratory_analysis.ipynb) → exploratory data analysis (EDA)
+  - [`03_feature_engineering_risk_index.ipynb`](./notebooks/03_feature_engineering_risk_index.ipynb) → feature engineering for risk index
+  - [`04_modeling.ipynb`](./notebooks/04_modeling.ipynb) → preparation for Power BI friendly
 - `data/`
-  - [`raw_data/`](https://github.com/namora-fernando/inflation-risk-analysis/tree/main/data/raw_data) → raw datasets
-  - [`processed/`](https://github.com/namora-fernando/inflation-risk-analysis/tree/main/data/processed) → intermediate outputs
-- `dashboard/` → Power BI dashboard & screenshots *(WIP)*
-  - `inflation_risk_analysis_dashboard.pbix`
+  - [`raw_data/`](./data/raw_data) → raw datasets
+  - [`processed/`](./data/processed) → intermediate outputs
+- `dashboard/` → Power BI dashboard & screenshots
+  - [`inflation_risk_analysis_dashboard.pbix`](./dashboard/inflation_risk_analysis_dashboard.pbix)
+  - [`inflation_risk_analysis_dashboard.pdf`](./dashboard/inflation_risk_analysis_dashboard.pdf) → pdf export of pbix
   - dashboard_insights/ → insights of dashboards
-  - dashboard_pages/ → screenshots of dashboards
+  - [`dashboard_pages`](./dashboard/dashboard_pages)/ → screenshots of dashboards
 - `requirements.txt` → Python dependencies
 - `README.md` → project documentation
 
@@ -37,7 +38,19 @@ The goal is to build a data pipeline, perform exploratory analysis, create risk 
 - Clean and preprocess macroeconomic & inflation-related data  
 - Explore country-level inflation patterns  
 - Engineer features to quantify inflation risk exposure  
-- Visualize findings through Power BI dashboard  → *(WIP)*
+- Visualize findings through Power BI dashboard
+
+---
+
+## Screenshots of Dashboard Pages
+- 1️⃣ **Global Overview**
+  ![global_overview.png](./dashboard/dashboard_pages/Page 1 - Global Overview.png)
+- 2️⃣ **Country-Deep-Dive**
+  ![country_deep_dive.png](./dashboard/dashboard_pages/Page 2 - Country-Deep-Dive.png)
+- 3️⃣ **Regional Comparison**
+  ![regional_comparison.png](./dashboard/dashboard_pages/Page 3 - Regional Comparison.png)
+- 4️⃣ **Data Methodology**
+  ![data_methodology.png](./dashboard/dashboard_pages/Page 4 - Data Methodology.png)
 
 ---
 
