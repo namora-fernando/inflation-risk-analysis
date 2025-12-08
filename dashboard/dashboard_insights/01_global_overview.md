@@ -18,7 +18,7 @@ This page is designed as the main entry point of the dashboard before moving int
 ---
 
 ## Dashboard Preview
-![Global Overview](./dashboard/dashboard_pages/global_overview.png "Global Overview")
+![Global Overview](../dashboard_pages/global_overview.png "Global Overview")
 
 ---
 
