@@ -10,7 +10,7 @@ It demonstrates a complete **end-to-end data analytics workflow**, from data cle
 
 ---
 
-## Tools & Stack 🛠️
+## Tools & Stack
 - **Python**: pandas, numpy, matplotlib, seaborn
 - **Power BI**: interactive dashboard for visualization & reporting
 
@@ -79,8 +79,8 @@ These files explain **what the visuals show, how the Risk Score is constructed, 
 
 ## Key Deliverables
 
-- ✅ Fully automated data preprocessing pipeline (Python)
-- ✅ Composite Inflation Risk Index (z-score based, weighted, min–max scaled)
-- ✅ Interactive multi-page Power BI dashboard
-- ✅ Written analytical interpretation for each dashboard page
-- ✅ Transparent treatment of missing data and imputation methods
+- Fully automated data preprocessing pipeline (Python)
+- Composite Inflation Risk Index (z-score based, weighted, min–max scaled)
+- Interactive multi-page Power BI dashboard
+- Written analytical interpretation for each dashboard page
+- Transparent treatment of missing data and imputation methods
