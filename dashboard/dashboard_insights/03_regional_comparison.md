@@ -1,6 +1,6 @@
 # Regional Comparison Analysis  
 
-This page focuses on comparing inflation risk conditions at the regional level and positioning the selected region relative to other global regions in the same year. The example shown in this view based on **Sub-Saharan Africa (2023)**, but all insights dynamically update with the region and year slicers.
+This page focuses on comparing inflation risk conditions at the regional level and positioning the selected region relative to other global regions in the same year. The example shown in this view is based on **Sub-Saharan Africa (2023)**, but all insights dynamically update with the region and year slicers.
 
 ---
 
