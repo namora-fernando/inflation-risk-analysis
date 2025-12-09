@@ -4,8 +4,8 @@ This project analyzes inflation risk across multiple countries using macroeconom
 It demonstrates a complete **end-to-end data analytics workflow**, from data cleaning and exploratory analysis to **risk scoring and interactive visualization using Power BI**.
 
 > ⚠️ **Disclaimer**: <br>
-> The following exploratory analysis of this project is **descriptive in nature** and focuses on patterns observable directly in the data.
-> This project is **does not aim to provide economic policy recommendations or causal economic interpretation**.  
+> The following exploratory analysis of this project is **descriptive in nature** and focuses on patterns observable directly in the data. <br>
+> This project is **does not aim to provide economic policy recommendations or causal economic interpretation**.  <br>
 > The primary objective is to showcase a full **data engineering, analytics, and dashboarding workflow**.
 
 ---
