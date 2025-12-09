@@ -28,7 +28,7 @@ The goal is to build a data workflow, from data cleaning and exploratory analysi
 - `dashboard/`
   - [`inflation_risk_analysis_dashboard.pbix`](./dashboard/inflation_risk_analysis_dashboard.pbix)
   - [`inflation_risk_analysis_dashboard.pdf`](./dashboard/inflation_risk_analysis_dashboard.pdf) → static PDF export
-  - dashboard_insights/ → insights of dashboards (*WIP*)
+  - [`dashboard_insights`](./dashboard/dashboard_insights) → insights of dashboards
   - [`dashboard_pages`](./dashboard/dashboard_pages)/ → screenshots of dashboard pages
 - `requirements.txt` → Python dependencies
 - `README.md` → project documentation
