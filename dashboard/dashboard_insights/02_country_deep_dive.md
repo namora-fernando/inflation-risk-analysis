@@ -25,7 +25,7 @@ For the selected country (Venezuela, 2003), the dashboard displays:
 
 - **Risk Score:** 100.00  
   This is the maximum possible value on our 0–100 scale for that year.  
-  A score of 100 means that, in 2003, Venezuela is the **riskiest country in the world** according to our composite risk index (built from CPI, Exchange Rate YoY change, money-supply YoY change, and inverted GDP growth).
+  A score of 100 means that, in 2003, Venezuela is the **riskiest country in the world** according to our composite risk index (built from CPI, exchange rate change, money-supply change, and inverted GDP growth).
 
 - **CPI Annual Change:** 27.08%  
   Inflation was already elevated, reflecting rapid consumer price increases.
@@ -52,7 +52,7 @@ The time series of the **Risk Score across all years** shows that:
 
 This suggests that inflation risk is not a temporary event for the selected country but a recurring structural issue.
 
-> The series stops in the mid-2010s because later values are missing in the underlying data, but the last observed years already show very elevated risk levels.
+> The series stops in the mid-2010s due to missing values in later years, but the final observed period already reflects very elevated risk levels.
 
 ---
 
