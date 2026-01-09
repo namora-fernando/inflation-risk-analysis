@@ -2,7 +2,7 @@
 
 This project analyzes inflation risk across multiple countries using macroeconomic indicators. <br>
 It demonstrates a complete **end-to-end data analytics workflow**, from data cleaning and exploratory analysis to **risk scoring and interactive visualization using Power BI**. <br>
-Source of the dataset [World Bank dataset](https://data.worldbank.org/indicator), focus indicators: <br>
+Source of the dataset [World Bank dataset 2024](https://data.worldbank.org/indicator), focus indicators: <br>
 - CPI (Inflation, consumer prices (annual %))
 - GDP growth (annual %)
 - Money Supply (Broad money (% of GDP))
