@@ -1,7 +1,12 @@
 # Global Inflation Risk Analysis Dashboard
 
 This project analyzes inflation risk across multiple countries using macroeconomic indicators. <br>
-It demonstrates a complete **end-to-end data analytics workflow**, from data cleaning and exploratory analysis to **risk scoring and interactive visualization using Power BI**.
+It demonstrates a complete **end-to-end data analytics workflow**, from data cleaning and exploratory analysis to **risk scoring and interactive visualization using Power BI**. <br>
+Source of the dataset [World Bank dataset](https://data.worldbank.org/indicator), focus indicators: <br>
+- CPI (Inflation, consumer prices (annual %))
+- GDP growth (annual %)
+- Money Supply (Broad money (% of GDP))
+- Exchange Rate (Official exchange rate (LCU per US$, period average))
 
 > ⚠️ **Disclaimer**: <br>
 > The following exploratory analysis of this project is **descriptive in nature** and focuses on patterns observable directly in the data. <br>
